@@ -23,5 +23,8 @@
 </script>
 
 <style scoped>
-
+    .home-swiper {
+        height: 212px;
+        width: 100%;
+    }
 </style>

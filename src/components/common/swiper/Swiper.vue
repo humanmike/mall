@@ -71,7 +71,7 @@
     /*icon-list位置调试*/
     .icon-list {
         position: absolute;
-        top: 190px;
+        top: 0;
         left: 0;
         right: 0;
         margin: 0 auto;
